@@ -18,16 +18,17 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@dev-hub-monitor/types": [
+      "@sofra/types": [
         "libs/types/src/index.ts"
       ],
       
-      "@dev-hub-monitor/utils": [
+      "@sofra/utils": [
         "libs/utils/src/index.ts"
       ],
-      "@dev-hub-monitor/validation": [
+      "@sofra/validation": [
         "libs/validation/src/index.ts"
-      ]
+      ],
+      
     }
   },
   "exclude": [
